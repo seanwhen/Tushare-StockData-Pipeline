@@ -1,0 +1,10 @@
+bs4==0.0.2
+lxml==5.2.2
+numpy==1.24.4
+pandas==2.0.3
+PyYAML==6.0
+tqdm==4.66.4
+tushare==1.4.7
+python-dotenv==1.0.1
+psycopg2-binary==2.9.10
+uv==0.1.41
