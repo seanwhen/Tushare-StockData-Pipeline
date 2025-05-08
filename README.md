@@ -6,12 +6,6 @@ graph LR
     B([📊 拉取日线数据]) --> C([🧹 数据清洗])
     C([🧹 数据清洗]) --> D([⏳ 生成多周期数据])
     D([⏳ 生成多周期数据]) --> E([💾 导入数据库])
-
-    style A fill:#e3f2fd,stroke:#2196f3,stroke-width:2px
-    style B fill:#e8f5e9,stroke:#43a047,stroke-width:2px
-    style C fill:#fffde7,stroke:#fbc02d,stroke-width:2px
-    style D fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px
-    style E fill:#fbe9e7,stroke:#d84315,stroke-width:2px
 ```
 
 ## 📝 项目简介
